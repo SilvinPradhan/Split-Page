@@ -1,1 +1,1 @@
-# background-generator
+# split landing page
