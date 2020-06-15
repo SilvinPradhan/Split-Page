@@ -1,1 +1,2 @@
-# split landing page
+# Split Landing Page 
+Technologies used: HTML, CSS, JavaScript
